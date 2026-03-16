@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1000x300/151515/FFFFFF?text=Welcome+to+Mon+Github+%3C/%3E" width="100%" alt="Banner">
+  <img src="img.jpg" width="100%" alt="Banner">
 </div>
 
 <br>
