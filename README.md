@@ -8,12 +8,12 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/PYTHON-151515?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-151515?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Golang-151515?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/BASH-151515?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/MYSQL-151515?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Front-151515?style=for-the-badge&logo=htmx&logoColor=white">
-  <img src="https://img.shields.io/badge/Golang-151515?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-151515?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML/CSS-151515?style=for-the-badge&logo=htmx&logoColor=white">
 
 <br>
   
