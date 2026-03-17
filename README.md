@@ -2,8 +2,6 @@
   <img src="bannière.webp" width="100%" alt="Banner">
 </div>
 
-<br>
-
 <h3 align="center"><code>- TECHNOLOGIES -</code></h3>
 
 <br>
