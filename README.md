@@ -4,13 +4,6 @@
 
 <br>
 
-<div align="center">
-  🎓 Studying Cyber Security at <b>Sophia YNOV Campus</b><br>
-  💻 Looking for a <b>36 months apprenticeship</b> (Sept. 2026)<br>
-</div>
-
-<br>
-
 <h3 align="center"><code>- TECHNOLOGIES -</code></h3>
 
 <br>
